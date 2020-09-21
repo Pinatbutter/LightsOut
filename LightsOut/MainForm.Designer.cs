@@ -104,6 +104,7 @@
             this.sizeToolStripMenuItem.Name = "sizeToolStripMenuItem";
             this.sizeToolStripMenuItem.Size = new System.Drawing.Size(39, 20);
             this.sizeToolStripMenuItem.Text = "&Size";
+            this.sizeToolStripMenuItem.Click += new System.EventHandler(this.sizeToolStripMenuItem_Click);
             // 
             // x3ToolStripMenuItem
             // 
